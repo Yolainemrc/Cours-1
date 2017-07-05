@@ -46,7 +46,7 @@ function getUsername() {
 
 function loadChallenges() {
   $.ajax(
-        {url : 'https://api.myjson.com/bins/1542ln',
+        {url : 'https://api.myjson.com/bins/8vorb',
         type: 'GET',
         dataType: 'json'} 
   )
